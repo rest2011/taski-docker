@@ -2,7 +2,7 @@
 Проект Таски с возможностью добавления, редактирования и удаления задач
 
 ### Технологии
-Python 3.9, Django 3.2, Django Rest Framework, Postgresql, Docker, Nginx, Git Actions
+Python 3.9, Django 3.2, Django Rest Framework, Postgresql, Docker, Nginx, Github Actions
 
 ### Запуск проекта локально или на сервере
 
